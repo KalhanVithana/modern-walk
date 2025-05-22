@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@tailwind utilities;
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+
+@theme  {
+   --color-dark-black: #0E0E0E;
+   --color-dark-gray: #D9D9D9;
+   --color-light-pink: #FF5E84;
+   --color-light-green: #2BD9AF;
+   --color-dark-blue: #0E42FD;
+  --color-light-gray: #F5F5F5;
+   
+   
+}
+body {
+  font-family: var(--font-roboto), sans-serif; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-inter), sans-serif; 
+}
