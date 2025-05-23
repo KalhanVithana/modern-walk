@@ -6,12 +6,16 @@ Modern Walk is a web project focused on optimization using the latest React and 
 
 ## Optimization
 
-- Utilizes **React Server Components** for improved performance.
+- Utilizes **React Server Components** for improved performance PPR strategy .
 - Avoids **network waterfall** issues to reduce bundle size and minimize API requests.
 - Minimal frontend responsibility for the requirement 
 - Focuses on **SEO** best practices.
 
-
+ ## Reusable Compoents 
+ - ProductList -Server side render
+ - CardItem -Server side render
+ - SectionHeading 
+ - Categories 
 
 ## Libraries and Frameworks
 
