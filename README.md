@@ -11,12 +11,17 @@ Modern Walk is a web project focused on optimization using the latest React and 
 - Minimal frontend responsibility for the requirement 
 - Focuses on **SEO** best practices.
 
+
+
 ## Libraries and Frameworks
 
 - **Next.js** — React framework for server-side rendering and static site generation.
 - **Tailwind CSS v4** — Utility-first CSS framework for rapid UI development.
 - **react-slick** — Carousel component for React.
 
+## Demo
+- https://github.com/user-attachments/assets/c70b1d2d-84bc-4929-8ff9-3711bafcd310
+  
 ## Getting Started
 
 1. Clone the repository:
